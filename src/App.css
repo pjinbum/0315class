@@ -1,0 +1,19 @@
+
+/* 공통스타일을 여기에 붙여준다 */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .visually-hidden {
+    display: none;
+  }
